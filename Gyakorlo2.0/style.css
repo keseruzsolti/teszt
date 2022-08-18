@@ -1,0 +1,44 @@
+.head{
+    background-color: #8D33FF;
+    padding: 20px;
+    text-align: center;
+    margin-left: 0px;
+    width: 660px;
+    margin: auto;
+    color:white;
+    font-size: 30px;
+}
+
+.all{
+    width: 660px;
+    border: 1px solid #9C6ADC;
+    border-radius: 10px;
+    margin: auto;
+    margin-top: 20px;
+}
+
+.inputs{
+    padding: 5px;
+    margin-bottom: 20px;
+    width: 200px;
+    margin: auto;
+    margin-top: 20px;
+    border: #8D33FF 1px solid;
+    border-radius: 10px;
+    text-align: center;
+    
+
+}
+
+.bcolor{
+    border: 1px solid #9C6ADC;
+}
+
+.allbody{
+    width: 700px;
+    margin: auto;
+    border-left: #8D33FF 2px solid;
+    border-right: #8D33FF 2px solid;
+    border-radius: 10px;
+    margin-top: 40px;
+}
